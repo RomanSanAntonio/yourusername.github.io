@@ -1,1 +1,0 @@
-console.log('Community Stock Market loaded');
